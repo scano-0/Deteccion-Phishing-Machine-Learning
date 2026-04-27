@@ -12,7 +12,7 @@ Este repositorio contiene la investigación y el desarrollo técnico de mi Traba
     * **processed/**: Características extraídas. El archivo `vivas_phi_cache_FULL.zip` contiene el dataset de 2024 procesado con 234.000 muestras procedentes de PhiUSIIL, categorizadas según su estado (Online y Offline).
 
 ## Diccionario de Datos (Etiquetado)
-El etiqutado usado en todos los datasets procesados fue el siguiente:
+El etiquetado usado en todos los datasets procesados fue el siguiente:
 * **0**: Phishing 
 * **1**: Legítimo 
 

@@ -2,6 +2,12 @@
 
 Este repositorio contiene la investigación y el desarrollo técnico de mi Trabajo de Fin de Grado (TFG) para la titulación de Ingeniería Informática. El proyecto desarrolla un sistema de clasificación de URLs maliciosas utilizando un motor de extracción híbrido y comparando arquitecturas de aprendizaje supervisado.
 
+## Memoria Final del TFG
+
+La memoria completa del Trabajo de Fin de Grado puede consultarse en el siguiente enlace:
+
+[Memoria final del TFG - Detección automática de phishing mediante Machine Learning](./docs/Memoria_TFG_Deteccion_Phishing_Machine_Learning.pdf)
+
 ## Estructura del Repositorio
 
 * **notebooks/**: 
